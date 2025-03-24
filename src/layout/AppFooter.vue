@@ -1,8 +1,8 @@
-<script setup></script>
+<script setup lang="ts"></script>
 
 <template>
     <div class="layout-footer">
-        SAKAI by
-        <a href="https://primevue.org" target="_blank" rel="noopener noreferrer" class="text-primary font-bold hover:underline">PrimeVue</a>
+        Monitoramento by
+        <a href="https://teste.com.br/" target="_blank" rel="noopener noreferrer" class="text-primary font-bold hover:underline">teste.com.br</a>
     </div>
 </template>
