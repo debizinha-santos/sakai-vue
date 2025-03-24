@@ -1,5 +1,5 @@
 {
-    "name": "sakai-vue",
+    "name": "Monitoramento",
     "version": "4.3.0",
     "scripts": {
         "dev": "vite",
@@ -40,17 +40,17 @@
         "unplugin-vue-components": "^0.27.3",
         "vite": "^5.3.1"
     },
-    "description": "Sakai is an application template for Vue based on the [create-vue](https://github.com/vuejs/create-vue), the recommended way to start a Vite-powered Vue projects.",
+    "description": "Monitoramento is an application template for Vue based on the [create-vue](https://github.com/vuejs/create-vue), the recommended way to start a Vite-powered Vue projects.",
     "main": "postcss.config.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/primefaces/sakai-vue.git"
+        "url": "git+https://github.com/primefaces/Monitoramento.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/primefaces/sakai-vue/issues"
+        "url": "https://github.com/primefaces/Monitoramento/issues"
     },
-    "homepage": "https://github.com/primefaces/sakai-vue#readme"
+    "homepage": "https://github.com/primefaces/Monitoramento#readme"
 }
